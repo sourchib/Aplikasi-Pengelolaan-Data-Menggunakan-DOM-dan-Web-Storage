@@ -1,14 +1,6 @@
 # Aplikasi-Pengelolaan-Data-Menggunakan-DOM-dan-Web-Storage
 Submission kelsa dicoding font-end developer.
 ![asa](https://github.com/sourchib/Aplikasi-Pengelolaan-Data-Menggunakan-DOM-dan-Web-Storage/assets/60887634/f9c9f021-e1ab-4a8e-a32b-461f48fb10bd)
-## Pengantar
-Selamat! Akhirnya Anda telah sampai di penghujung pembelajaran. Anda telah mempelajari:
-Dasar-dasar JavaScript mulai dari statement, expressions, pembuatan variabel, tipe data, operator, percabangan if dan switch, data structure dengan array dan object, hingga pembuatan function.
-Mengetahui Browser Object Model (BOM), Document Object Model (DOM), dan Event di dalam website. Serta Anda mampu mengubah konten website melalui teknik manipulasi DOM dan memberikan Event.
-Mengenal localStorage dan sessionStorage sebagai Web Storage. Serta menggunakan keduanya.
-Terakhir, Anda sudah mampu membuat website memiliki fungsionalitas mengelola To-Do menggunakan JavaScript dengan memanfaatkan teknik manipulasi DOM, Event, dan Web Storage melalui latihan yang diberikan pada kelas ini.
-Untuk bisa lulus dan mendapatkan sertifikat dari akademi ini, Anda harus mengerjakan tugas yakni membuat proyek Bookshelf Apps sesuai kriteria lengkap di bawah ini. Tim Reviewer akan memeriksa pekerjaan Anda dan memberikan reviu pada proyek yang Anda buat.
-
 ## Kriteria Bookshelf Apps
 Buatlah aplikasi web yang dapat memasukan data buku ke dalam rak, memindahkan data buku antar rak, dan menghapus data buku dari rak. 
 Untuk lebih jelasnya, terdapat 5 kriteria utama pada Bookshelf Apps yang harus Anda buat.
