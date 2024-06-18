@@ -2,19 +2,19 @@ const addBook = () => {
   const title = document.getElementById("inputBookTitle").value;
   const author = document.getElementById("inputBookAuthor").value;
   const parts = document.getElementById("myDate").value;
-  const y = parts[0];
-  const m = parts[1];
-  const d = parts[2];
-  const j = parts[3];
-  const year = y + m + d + j;
+  const [year, month, day] = parts.split('-');
+  // Konversi setiap bagian menjadi integer
+  const yearInt = parseInt(year);
+  const monthInt = parseInt(month);
+  const dayInt = parseInt(day);
   
-  const isCompleted = document.getElementById("inputBookIsComplete").checked;
+  const isComplete = document.getElementById("inputBookIsComplete").checked;
   const object = {
     id: +new Date(),
     title: title,
     author: author,
-    year: year,
-    isCompleted: isCompleted,
+    year: yearInt,
+    isComplete: isComplete,
   };
 
   books.push(object);
