@@ -1,6 +1,6 @@
 # Aplikasi-Pengelolaan-Data-Menggunakan-DOM-dan-Web-Storage
 Submission kelsa dicoding font-end developer.
-
+![asa](https://github.com/sourchib/Aplikasi-Pengelolaan-Data-Menggunakan-DOM-dan-Web-Storage/assets/60887634/f9c9f021-e1ab-4a8e-a32b-461f48fb10bd)
 ## Pengantar
 Selamat! Akhirnya Anda telah sampai di penghujung pembelajaran. Anda telah mempelajari:
 Dasar-dasar JavaScript mulai dari statement, expressions, pembuatan variabel, tipe data, operator, percabangan if dan switch, data structure dengan array dan object, hingga pembuatan function.
